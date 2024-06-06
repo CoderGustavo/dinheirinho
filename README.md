@@ -1,3 +1,6 @@
+#name
+Igor, Laun, Gustavo.
+------------------------------------------------------------
 # dinheirinho
 
 A new Flutter project.
